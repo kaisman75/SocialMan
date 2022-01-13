@@ -16,7 +16,7 @@ const Login = () => {
               autoPlay={true}
               className='w-full h-full object-cover'
               />
-              <div className='absolute flex flex-col justify-center items-center bg-blackOverlay top-0 right-0 bottom-0 left-0'></div>
+              <div className='absolute flex flex-col justify-center items-center bg-black opacity-20 top-0 right-0 bottom-0 left-0'></div>
           </div>
           <div className='absolute w-full h-full flex flex-col justify-center items-center top-0 right-0 bottom-0 left-0 bg-blackOverlay'>
             
