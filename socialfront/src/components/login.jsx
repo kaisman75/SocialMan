@@ -20,10 +20,10 @@ const Login = () => {
           <div className='absolute w-full h-full flex flex-col justify-center items-center top-0 right-0 bottom-0 left-0 bg-blackOverlay'>
             
                   <img src="./Asets/s1.png" alt="" />
-                    <div className='mt-10'>
+                    <div className='mt-10 '>
                       <button 
                        type="button"
-                       className='flex flex-row'
+                       className='flex flex-row w-100 h-10 bg-white p-10 justify-center items-center rounded-md'
                        >
                       <FcGoogle className='mr-4'/>login with google
                       </button>
